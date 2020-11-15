@@ -3,7 +3,6 @@
 #### Do you use Gloss? ✨
 
 Thank you so much for your support!
-
 But, it's time to migrate to Codable: [hkellaway.github.io/blog/2020/08/30/tale-of-third-parties](https://hkellaway.github.io/blog/2020/08/30/tale-of-third-parties)
 
 <!--
