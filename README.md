@@ -1,11 +1,4 @@
-### Hi there 👋
-
-#### Do you use Gloss? ✨
-
-Thank you so much for your support!
-
-But, it's time to migrate to Codable: [hkellaway.github.io/blog/2020/08/30/tale-of-third-parties](https://hkellaway.github.io/blog/2020/08/30/tale-of-third-parties)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hkellaway&count_private=true&show_icons=true&theme=default)
 <!--
 **hkellaway/hkellaway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
