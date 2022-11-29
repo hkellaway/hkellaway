@@ -1,4 +1,3 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hkellaway&theme=graywhite&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&&hide=contribs&custom_title=@hkellaway%20GitHub%20Stats)
 <!--
 **hkellaway/hkellaway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
